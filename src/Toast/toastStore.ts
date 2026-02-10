@@ -9,7 +9,7 @@ export type Toast = {
   persist?: boolean;
 };
 
-type ToastState = {
+export type ToastState = {
   visible: Toast[];
   queue: Toast[];
 };
