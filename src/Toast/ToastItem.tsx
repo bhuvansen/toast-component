@@ -1,4 +1,3 @@
-// ToastItem.tsx
 import { toast } from "./toast";
 import type { Toast } from "./toastStore";
 import { useToastTimer } from "./useToastTimer";

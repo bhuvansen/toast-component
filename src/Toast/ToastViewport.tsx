@@ -1,4 +1,3 @@
-// ToastViewport.tsx
 import { createPortal } from "react-dom";
 import { ToastItem } from "./ToastItem";
 import { useEffect, useState } from "react";
